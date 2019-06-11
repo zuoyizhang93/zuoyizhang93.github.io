@@ -1,0 +1,8 @@
+---
+layout: single
+title:  "Day one!"
+date:   2019-06-10 15:04:38 -0500
+categories: jekyll update
+#permalink:"/my-new-url/test/dayone"
+---
+This is my first blog.
